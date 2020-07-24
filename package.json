@@ -1,0 +1,27 @@
+{
+  "name": "bestshop_rwd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rusakkamil/BestShop_RWD.git"
+  },
+  "author": "Kamil Rusak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rusakkamil/BestShop_RWD/issues"
+  },
+  "homepage": "https://github.com/rusakkamil/BestShop_RWD#readme",
+  "devDependencies": {
+    "browser-sync": "^2.26.10",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^7.0.1",
+    "gulp-sass": "^4.1.0",
+    "gulp-sourcemaps": "^2.6.5",
+    "sass": "^1.26.10"
+  }
+}
